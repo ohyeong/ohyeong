@@ -19,7 +19,7 @@
 💾 My Github
 - 
 [![ohyeong's github stats](https://github-readme-stats.vercel.app/api?username=ohyeong&count_private=true&custom_title=ohyeong's&nbsp;github&nbsp;&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/bbang-jun/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyeong)](https://github.com/ohyeong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohyeong&langs_count=10&layout=compact&theme=dark)](https://github.com/ohyeong/ohyeong)
 
 💻 My Online Judge
 - 
