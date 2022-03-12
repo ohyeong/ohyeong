@@ -23,7 +23,7 @@
 
 💻 My Online Judge
 - 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=oueong)](https://solved.ac/oueong)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oueong)
   
 💬 How to Contact me
 - 
