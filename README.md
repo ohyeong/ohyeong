@@ -18,7 +18,7 @@
 
 💾 My Github
 - 
-[![ohyeong's github stats](https://github-readme-stats.vercel.app/api?username=ohyeong&count_private=true&custom_title=ohyeong's&nbsp;github&nbsp;&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/bbang-jun/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 My Online Judge
 - 
